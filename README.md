@@ -18,4 +18,18 @@ To empower businesses with **actionable insights** that help **monitor**, **eval
 ## Role of Reports  
 - Support **pricing and discount strategies**.  
 - Facilitate **consumer and partner negotiations**.  
-- Guide **business expansion in high-potential regions**. 
+- Guide **business expansion in high-potential regions**.
+
+## Technical & Soft Skills:
+- ✅ 	Proficiency in ETL methodology (Extract, Transform, Load).
+- ✅	Skills to generate a date table using Power Query.
+- ✅	Establishing data model relationships with Power Pivot.
+- ✅	Proficiency in incorporating supplementary data into an existing data model.
+- ✅	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- ✅	Refined understanding of Sale Reports.
+- ✅	Designing user-centric reports with empathy in mind.
+- ✅	Optimization of report generation through meticulous fine-tuning.
+- ✅	Developed a systematic, strategic approach for report building.
+
